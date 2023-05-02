@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "chef_name": "Gordon Ramsay",
+    "rating": 4.6,
+    "years_of_experience": 7,
+    "num_of_recipes": 300,
+    "like_number": 5000,
+    "chef_picture": "https://rb.gy/4m7g9"
+  },
+  {
+    "id": 2,
+    "chef_name": "Jamie Oliver",
+    "rating": 4.7,
+    "years_of_experience": 8,
+    "num_of_recipes": 250,
+    "like_number": 4000,
+    "chef_picture": "https://rb.gy/4m7g9"
+  },
+  {
+    "id": 3,
+    "chef_name": "Anthony Bourdain",
+    "rating": 5,
+    "years_of_experience": 12,
+    "num_of_recipes": 200,
+    "like_number": 3500,
+    "chef_picture": "https://rb.gy/xu1v1"
+  },
+  {
+    "id": 4,
+    "chef_name": "Julia Child",
+    "rating": 4.2,
+    "years_of_experience": 4,
+    "num_of_recipes": 500,
+    "like_number": 6000,
+    "chef_picture": "https://rb.gy/4m7g9"
+  },
+  {
+    "id": 5,
+    "chef_name": "Emeril Lagasse",
+    "rating": 4.4,
+    "years_of_experience": 5,
+    "num_of_recipes": 350,
+    "like_number": 4500,
+    "chef_picture": "https://rb.gy/xu1v1"
+  },
+  {
+    "id": 6,
+    "chef_name": "Nigella Lawson",
+    "rating": 4.1,
+    "years_of_experience": 2,
+    "num_of_recipes": 150,
+    "like_number": 2500,
+    "chef_picture": "https://rb.gy/4m7g9"
+  }
+]

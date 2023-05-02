@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "chef_name": "Gordon Ramsay",
+    "recipe_name": "Classic Cheeseburger",
+    "ingredients": [
+      "1 lb ground beef",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper",
+      "4 slices American cheese",
+      "4 hamburger buns, split and toasted",
+      "Lettuce, tomato, onion, pickles, ketchup, and mustard for serving"
+    ],
+    "directions": [
+      "Preheat grill or grill pan to medium-high heat.",
+      "In a large bowl, mix together ground beef, salt, and black pepper. Form into 4 equal patties.",
+      "Grill patties for 4-5 minutes per side, until fully cooked. During the last minute of cooking, top each patty with a slice of cheese.",
+      "Serve burgers on toasted buns with desired toppings."
+    ],
+    "dietary_info": "None"
+  },
+  {
+    "id": 2,
+    "chef_name": "Gordon Ramsay",
+    "recipe_name": "Southern Fried Chicken",
+    "ingredients": [
+      "1 whole chicken, cut into pieces",
+      "1 cup buttermilk",
+      "1 tbsp hot sauce",
+      "2 cups all-purpose flour",
+      "1 tbsp garlic powder",
+      "1 tbsp paprika",
+      "1 tbsp salt",
+      "1 tsp black pepper",
+      "Vegetable oil, for frying"
+    ],
+    "directions": [
+      "In a large bowl, whisk together buttermilk and hot sauce. Add chicken pieces and toss to coat. Cover and refrigerate for at least 2 hours, or up to overnight.",
+      "In a shallow dish, whisk together flour, garlic powder, paprika, salt, and black pepper.",
+      "Remove chicken from buttermilk mixture, allowing excess to drip off. Dredge chicken in flour mixture, pressing to adhere.",
+      "Heat about 1 inch of vegetable oil in a large skillet over medium-high heat. Working in batches, fry chicken until golden brown and fully cooked, about 6-8 minutes per side.",
+      "Transfer chicken to a paper towel-lined plate to drain excess oil. Serve hot."
+    ],
+    "dietary_info": "None"
+  },
+  {
+    "id": 3,
+    "chef_name": "Gordon Ramsay",
+    "recipe_name": "Macaroni and Cheese",
+    "ingredients": [
+      "1 lb elbow macaroni",
+      "4 tbsp unsalted butter",
+      "1/4 cup all-purpose flour",
+      "2 cups whole milk",
+      "1 cup heavy cream",
+      "1 tsp salt",
+      "1/4 tsp black pepper",
+      "2 cups shredded cheddar cheese",
+      "1/2 cup grated Parmesan cheese",
+      "1/2 cup breadcrumbs"
+    ],
+    "directions": [
+      "Preheat oven to 375°F.",
+      "Cook macaroni according to package directions, until al dente. Drain and set aside.",
+      "In a large saucepan, melt butter over medium heat. Whisk in flour and cook for 1-2 minutes, until mixture is smooth and bubbly.",
+      "Gradually whisk in milk and heavy cream, stirring constantly, until mixture comes to a simmer and thickens slightly. Stir in salt and black pepper.",
+      "Remove from heat and stir in cheddar and Parmesan cheeses until melted and smooth.",
+      "Stir in cooked macaroni until well coated with cheese sauce. Transfer mixture to a greased 9x13 inch baking dish.",
+      "Sprinkle breadcrumbs over"
+    ]
+  }
+]
