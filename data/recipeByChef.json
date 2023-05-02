@@ -1,5 +1,4 @@
 [
-  // gordon ramsy recipe
   {
     "id": 1,
     "chef_name": "Gordon Ramsay",
@@ -111,7 +110,7 @@
     "rating": 4.5,
     "total_ratings": 100
   },
-  //   "Jamie Oliver",
+
   {
     "id": 5,
     "recipe_name": "Barbecue Ribs",

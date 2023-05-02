@@ -17,12 +17,16 @@ app.get("/", (req, res) => {
 app.get("/chefInfo", (req, res) => {
   res.send(chefInfo);
 });
+// app.get("/chef/:name", (req, res) => {
+//   const name = req.params.name;
+//   const chefDetails = chefInfo.find((chef) => chef.chef_name === name);
+//   res.send(chefDetails);
+// });
 //get recipe info by chef
 app.get("/chef/:name", (req, res) => {
   const name = req.params.name;
   const recipeByChef = recipe.filter((chef) => name == chef.chef_name);
   res.send(recipeByChef);
-  console.log(name);
 });
 app.listen(port, () => {
   console.log("Cooking on port " + port);
