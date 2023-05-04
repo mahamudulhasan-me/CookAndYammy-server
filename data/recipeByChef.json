@@ -110,7 +110,6 @@
     "rating": 4.5,
     "total_ratings": 100
   },
-
   {
     "id": 5,
     "recipe_name": "Barbecue Ribs",
@@ -240,5 +239,533 @@
     ],
     "rating": 4.8,
     "total_ratings": 89
+  },
+  {
+    "id": 10,
+    "chef_name": "Sara Lee",
+    "recipe_name": "Classic Cheeseburger",
+    "food_image": "https://rb.gy/uqfgw",
+    "rating": 4.5,
+    "total_ratings": 100,
+    "ingredients": [
+      "1 lb ground beef",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper",
+      "4 slices American cheese",
+      "4 hamburger buns, split and toasted",
+      "Lettuce, tomato, onion, pickles, ketchup, and mustard for serving"
+    ],
+    "directions": [
+      "Preheat grill or grill pan to medium-high heat.",
+      "In a large bowl, mix together ground beef, salt, and black pepper. Form into 4 equal patties.",
+      "Grill patties for 4-5 minutes per side, until fully cooked. During the last minute of cooking, top each patty with a slice of cheese.",
+      "Serve burgers on toasted buns with desired toppings."
+    ],
+    "dietary_info": "None"
+  },
+  {
+    "id": 11,
+    "chef_name": "Sara Lee",
+    "recipe_name": "Southern Fried Chicken",
+    "food_image": "https://rb.gy/50j6f",
+    "rating": 4.8,
+    "total_ratings": 120,
+    "ingredients": [
+      "1 whole chicken, cut into pieces",
+      "1 cup buttermilk",
+      "1 tbsp hot sauce",
+      "2 cups all-purpose flour",
+      "1 tbsp garlic powder",
+      "1 tbsp paprika",
+      "1 tbsp salt",
+      "1 tsp black pepper",
+      "Vegetable oil, for frying"
+    ],
+    "directions": [
+      "In a large bowl, whisk together buttermilk and hot sauce. Add chicken pieces and toss to coat. Cover and refrigerate for at least 2 hours, or up to overnight.",
+      "In a shallow dish, whisk together flour, garlic powder, paprika, salt, and black pepper.",
+      "Remove chicken from buttermilk mixture, allowing excess to drip off. Dredge chicken in flour mixture, pressing to adhere.",
+      "Heat about 1 inch of vegetable oil in a large skillet over medium-high heat. Working in batches, fry chicken until golden brown and fully cooked, about 6-8 minutes per side.",
+      "Transfer chicken to a paper towel-lined plate to drain excess oil. Serve hot."
+    ],
+    "dietary_info": "None"
+  },
+  {
+    "id": 12,
+    "chef_name": "Sara Lee",
+    "recipe_name": "Macaroni and Cheese",
+    "food_image": "https://rb.gy/bxw65",
+    "rating": 4.5,
+    "total_ratings": 100,
+    "ingredients": [
+      "1 lb elbow macaroni",
+      "4 tbsp unsalted butter",
+      "1/4 cup all-purpose flour",
+      "2 cups whole milk",
+      "1 cup heavy cream",
+      "1 tsp salt",
+      "1/4 tsp black pepper",
+      "2 cups shredded cheddar cheese",
+      "1/2 cup grated Parmesan cheese",
+      "1/2 cup breadcrumbs"
+    ],
+    "directions": [
+      "Preheat oven to 375°F.",
+      "Cook macaroni according to package directions, until al dente. Drain and set aside.",
+      "In a large saucepan, melt butter over medium heat. Whisk in flour and cook for 1-2 minutes, until mixture is smooth and bubbly.",
+      "Gradually whisk in milk and heavy cream, stirring constantly, until mixture comes to a simmer and thickens slightly. Stir in salt and black pepper.",
+      "Remove from heat and stir in cheddar and Parmesan cheeses until melted and smooth.",
+      "Stir in cooked macaroni until well coated with cheese sauce. Transfer mixture to a greased 9x13 inch baking dish.",
+      "Sprinkle breadcrumbs over"
+    ]
+  },
+  {
+    "id": 13,
+    "recipe_name": "New England Clam Chowder",
+    "chef_name": "Sara Lee",
+    "food_image": "https://rb.gy/mwtoa",
+    "ingredients": [
+      "6 slices bacon, diced",
+      "1 medium onion, diced",
+      "2 stalks celery, diced",
+      "2 cloves garlic, minced",
+      "3 tbsp all-purpose flour",
+      "4 cups clam juice",
+      "2 cups heavy cream",
+      "2 bay leaves",
+      "2 sprigs thyme",
+      "2 lbs Yukon Gold potatoes, peeled and diced",
+      "3 cans minced clams, drained",
+      "Salt and pepper to taste",
+      "Chopped parsley for serving"
+    ],
+    "directions": [
+      "In a large pot, cook bacon over medium heat until crisp. Remove with a slotted spoon and set aside.",
+      "Add onion, celery, and garlic to the bacon fat and cook until softened.",
+      "Sprinkle flour over the vegetables and stir to coat. Cook for 1-2 minutes, until flour is lightly browned.",
+      "Gradually whisk in clam juice, heavy cream, bay leaves, and thyme. Bring to a simmer and add potatoes.",
+      "Simmer until potatoes are tender, about 15-20 minutes.",
+      "Stir in minced clams and reserved bacon. Season with salt and pepper to taste.",
+      "Serve hot, garnished with chopped parsley."
+    ],
+    "rating": 4.5,
+    "total_ratings": 100
+  },
+  {
+    "id": 14,
+    "recipe_name": "Barbecue Ribs",
+    "chef_name": "Sara Lee",
+    "food_image": "https://rb.gy/qflwg",
+    "ingredients": [
+      "3 lbs pork baby back ribs",
+      "1 tbsp garlic powder",
+      "1 tbsp onion powder",
+      "1 tbsp smoked paprika",
+      "1 tbsp chili powder",
+      "1/2 tsp cayenne pepper",
+      "1 cup barbecue sauce"
+    ],
+    "directions": [
+      "Preheat oven to 300°F.",
+      "Season ribs with garlic powder, onion powder, smoked paprika, chili powder, and cayenne pepper.",
+      "Wrap ribs tightly in foil and bake for 2-3 hours, until tender.",
+      "Preheat grill to medium-high heat.",
+      "Remove ribs from foil and brush with barbecue sauce. Grill for 3-4 minutes per side, until slightly charred and glazed with sauce.",
+      "Serve hot."
+    ],
+    "dietary_info": "None",
+    "rating": 4.8,
+    "total_ratings": 75
+  },
+  {
+    "id": 15,
+    "recipe_name": "Buttermilk Biscuits",
+    "chef_name": "Julia Child",
+    "food_image": "https://rb.gy/cpxz8",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1 tbsp baking powder",
+      "1 tsp salt",
+      "1/2 tsp baking soda",
+      "1/2 cup unsalted butter, chilled and cubed",
+      "3/4 cup buttermilk"
+    ],
+    "directions": [
+      "Preheat oven to 425°F.",
+      "In a large bowl, whisk together flour, baking powder, salt, and baking soda.",
+      "Using a pastry cutter or your fingers, cut in butter until mixture resembles coarse crumbs.",
+      "Add buttermilk and stir until dough comes together.",
+      "Turn dough out onto a floured surface and knead lightly. Roll out to 1/2 inch thickness and cut with a biscuit cutter.",
+      "Place biscuits on a baking sheet lined with parchment paper. Bake for 12-15 minutes, until golden brown"
+    ],
+    "rating": 4.3,
+    "total_ratings": 120
+  },
+  {
+    "id": 16,
+    "recipe_name": "Classic Cheeseburger",
+    "food_image": "https://rb.gy/mrlpo",
+    "chef_name": "Julia Child",
+    "ingredients": [
+      "1 lb ground beef",
+      "Salt and pepper to taste",
+      "4 slices American cheese",
+      "4 hamburger buns, split and toasted",
+      "Lettuce, tomato, onion, and pickles for serving",
+      "Ketchup and mustard for serving"
+    ],
+    "directions": [
+      "Divide ground beef into 4 equal portions and shape into patties. Season with salt and pepper on both sides.",
+      "Preheat grill or grill pan to medium-high heat.",
+      "Grill burgers for 3-4 minutes per side, or until desired doneness is reached.",
+      "Top each patty with a slice of American cheese and allow to melt.",
+      "Assemble burgers on toasted buns with lettuce, tomato, onion, and pickles. Serve with ketchup and mustard."
+    ],
+    "dietary_info": "None",
+    "rating": 4.7,
+    "total_ratings": 90
+  },
+  {
+    "id": 17,
+    "recipe_name": "Southern Fried Chicken",
+    "food_image": "https://rb.gy/p3u0i",
+    "chef_name": "Julia Child",
+    "ingredients": [
+      "2 lbs bone-in, skin-on chicken pieces",
+      "1 cup all-purpose flour",
+      "1 tbsp garlic powder",
+      "1 tbsp onion powder",
+      "1 tbsp paprika",
+      "1 tsp salt",
+      "1/2 tsp black pepper",
+      "1 cup buttermilk",
+      "2 eggs",
+      "Vegetable oil for frying"
+    ],
+    "directions": [
+      "In a shallow bowl, whisk together flour, garlic powder, onion powder, paprika, salt, and black pepper.",
+      "In another shallow bowl, whisk together buttermilk and eggs.",
+      "Dredge chicken pieces in the flour mixture, then dip in the buttermilk mixture, and then coat in the flour mixture again.",
+      "Heat about 2 inches of vegetable oil in a large pot or Dutch oven over medium-high heat.",
+      "Working in batches, fry chicken pieces for 10-12 minutes per side, until golden brown and cooked through.",
+      "Remove chicken to a wire rack to drain excess oil.",
+      "Serve hot."
+    ],
+    "dietary_info": "Contains dairy",
+    "rating": 4.9,
+    "total_ratings": 80
+  },
+  {
+    "id": 18,
+    "recipe_name": "Macaroni and Cheese",
+    "chef_name": "Julia Child",
+    "food_image": "https://rb.gy/rje2e",
+    "ingredients": [
+      "1 lb elbow macaroni",
+      "4 tbsp unsalted butter",
+      "1/4 cup all-purpose flour",
+      "3 cups whole milk",
+      "2 cups shredded cheddar cheese",
+      "1 cup shredded mozzarella cheese",
+      "1/2 cup grated Parmesan cheese",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Preheat oven to 375°F.",
+      "Cook macaroni according to package directions. Drain and set aside.",
+      "In a large saucepan, melt butter over medium heat. Whisk in flour and cook for 1-2 minutes, until lightly browned.",
+      "Gradually whisk in milk and bring to a simmer. Cook for 3-4 minutes, stirring constantly, until thickened.",
+      "Stir in cheddar, mozzarella, and Parmesan cheeses until melted and smooth. Season with salt and pepper to taste.",
+      "Add cooked macaroni to the cheese sauce and stir to combine"
+    ],
+    "rating": 4.8,
+    "total_ratings": 89
+  },
+  {
+    "id": 19,
+    "chef_name": "Julia Child",
+    "recipe_name": "Classic Cheeseburger",
+    "food_image": "https://rb.gy/uqfgw",
+    "rating": 4.5,
+    "total_ratings": 100,
+    "ingredients": [
+      "1 lb ground beef",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper",
+      "4 slices American cheese",
+      "4 hamburger buns, split and toasted",
+      "Lettuce, tomato, onion, pickles, ketchup, and mustard for serving"
+    ],
+    "directions": [
+      "Preheat grill or grill pan to medium-high heat.",
+      "In a large bowl, mix together ground beef, salt, and black pepper. Form into 4 equal patties.",
+      "Grill patties for 4-5 minutes per side, until fully cooked. During the last minute of cooking, top each patty with a slice of cheese.",
+      "Serve burgers on toasted buns with desired toppings."
+    ],
+    "dietary_info": "None"
+  },
+  {
+    "id": 20,
+    "chef_name": "Emeril Lagasse",
+    "recipe_name": "Classic Cheeseburger",
+    "food_image": "https://rb.gy/uqfgw",
+    "rating": 4.5,
+    "total_ratings": 100,
+    "ingredients": [
+      "1 lb ground beef",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper",
+      "4 slices American cheese",
+      "4 hamburger buns, split and toasted",
+      "Lettuce, tomato, onion, pickles, ketchup, and mustard for serving"
+    ],
+    "directions": [
+      "Preheat grill or grill pan to medium-high heat.",
+      "In a large bowl, mix together ground beef, salt, and black pepper. Form into 4 equal patties.",
+      "Grill patties for 4-5 minutes per side, until fully cooked. During the last minute of cooking, top each patty with a slice of cheese.",
+      "Serve burgers on toasted buns with desired toppings."
+    ],
+    "dietary_info": "None"
+  },
+  {
+    "id": 21,
+    "chef_name": "Emeril Lagasse",
+    "recipe_name": "Southern Fried Chicken",
+    "food_image": "https://rb.gy/50j6f",
+    "rating": 4.8,
+    "total_ratings": 120,
+    "ingredients": [
+      "1 whole chicken, cut into pieces",
+      "1 cup buttermilk",
+      "1 tbsp hot sauce",
+      "2 cups all-purpose flour",
+      "1 tbsp garlic powder",
+      "1 tbsp paprika",
+      "1 tbsp salt",
+      "1 tsp black pepper",
+      "Vegetable oil, for frying"
+    ],
+    "directions": [
+      "In a large bowl, whisk together buttermilk and hot sauce. Add chicken pieces and toss to coat. Cover and refrigerate for at least 2 hours, or up to overnight.",
+      "In a shallow dish, whisk together flour, garlic powder, paprika, salt, and black pepper.",
+      "Remove chicken from buttermilk mixture, allowing excess to drip off. Dredge chicken in flour mixture, pressing to adhere.",
+      "Heat about 1 inch of vegetable oil in a large skillet over medium-high heat. Working in batches, fry chicken until golden brown and fully cooked, about 6-8 minutes per side.",
+      "Transfer chicken to a paper towel-lined plate to drain excess oil. Serve hot."
+    ],
+    "dietary_info": "None"
+  },
+  {
+    "id": 22,
+    "chef_name": "Emeril Lagasse",
+    "recipe_name": "Macaroni and Cheese",
+    "food_image": "https://rb.gy/bxw65",
+    "rating": 4.5,
+    "total_ratings": 100,
+    "ingredients": [
+      "1 lb elbow macaroni",
+      "4 tbsp unsalted butter",
+      "1/4 cup all-purpose flour",
+      "2 cups whole milk",
+      "1 cup heavy cream",
+      "1 tsp salt",
+      "1/4 tsp black pepper",
+      "2 cups shredded cheddar cheese",
+      "1/2 cup grated Parmesan cheese",
+      "1/2 cup breadcrumbs"
+    ],
+    "directions": [
+      "Preheat oven to 375°F.",
+      "Cook macaroni according to package directions, until al dente. Drain and set aside.",
+      "In a large saucepan, melt butter over medium heat. Whisk in flour and cook for 1-2 minutes, until mixture is smooth and bubbly.",
+      "Gradually whisk in milk and heavy cream, stirring constantly, until mixture comes to a simmer and thickens slightly. Stir in salt and black pepper.",
+      "Remove from heat and stir in cheddar and Parmesan cheeses until melted and smooth.",
+      "Stir in cooked macaroni until well coated with cheese sauce. Transfer mixture to a greased 9x13 inch baking dish.",
+      "Sprinkle breadcrumbs over"
+    ]
+  },
+  {
+    "id": 23,
+    "recipe_name": "New England Clam Chowder",
+    "chef_name": "Emeril Lagasse",
+    "food_image": "https://rb.gy/mwtoa",
+    "ingredients": [
+      "6 slices bacon, diced",
+      "1 medium onion, diced",
+      "2 stalks celery, diced",
+      "2 cloves garlic, minced",
+      "3 tbsp all-purpose flour",
+      "4 cups clam juice",
+      "2 cups heavy cream",
+      "2 bay leaves",
+      "2 sprigs thyme",
+      "2 lbs Yukon Gold potatoes, peeled and diced",
+      "3 cans minced clams, drained",
+      "Salt and pepper to taste",
+      "Chopped parsley for serving"
+    ],
+    "directions": [
+      "In a large pot, cook bacon over medium heat until crisp. Remove with a slotted spoon and set aside.",
+      "Add onion, celery, and garlic to the bacon fat and cook until softened.",
+      "Sprinkle flour over the vegetables and stir to coat. Cook for 1-2 minutes, until flour is lightly browned.",
+      "Gradually whisk in clam juice, heavy cream, bay leaves, and thyme. Bring to a simmer and add potatoes.",
+      "Simmer until potatoes are tender, about 15-20 minutes.",
+      "Stir in minced clams and reserved bacon. Season with salt and pepper to taste.",
+      "Serve hot, garnished with chopped parsley."
+    ],
+    "rating": 4.5,
+    "total_ratings": 100
+  },
+  {
+    "id": 24,
+    "recipe_name": "Barbecue Ribs",
+    "chef_name": "Emeril Lagasse",
+    "food_image": "https://rb.gy/qflwg",
+    "ingredients": [
+      "3 lbs pork baby back ribs",
+      "1 tbsp garlic powder",
+      "1 tbsp onion powder",
+      "1 tbsp smoked paprika",
+      "1 tbsp chili powder",
+      "1/2 tsp cayenne pepper",
+      "1 cup barbecue sauce"
+    ],
+    "directions": [
+      "Preheat oven to 300°F.",
+      "Season ribs with garlic powder, onion powder, smoked paprika, chili powder, and cayenne pepper.",
+      "Wrap ribs tightly in foil and bake for 2-3 hours, until tender.",
+      "Preheat grill to medium-high heat.",
+      "Remove ribs from foil and brush with barbecue sauce. Grill for 3-4 minutes per side, until slightly charred and glazed with sauce.",
+      "Serve hot."
+    ],
+    "dietary_info": "None",
+    "rating": 4.8,
+    "total_ratings": 75
+  },
+  {
+    "id": 25,
+    "recipe_name": "Buttermilk Biscuits",
+    "chef_name": "JNigella Lawson",
+    "food_image": "https://rb.gy/cpxz8",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1 tbsp baking powder",
+      "1 tsp salt",
+      "1/2 tsp baking soda",
+      "1/2 cup unsalted butter, chilled and cubed",
+      "3/4 cup buttermilk"
+    ],
+    "directions": [
+      "Preheat oven to 425°F.",
+      "In a large bowl, whisk together flour, baking powder, salt, and baking soda.",
+      "Using a pastry cutter or your fingers, cut in butter until mixture resembles coarse crumbs.",
+      "Add buttermilk and stir until dough comes together.",
+      "Turn dough out onto a floured surface and knead lightly. Roll out to 1/2 inch thickness and cut with a biscuit cutter.",
+      "Place biscuits on a baking sheet lined with parchment paper. Bake for 12-15 minutes, until golden brown"
+    ],
+    "rating": 4.3,
+    "total_ratings": 120
+  },
+  {
+    "id": 26,
+    "recipe_name": "Classic Cheeseburger",
+    "food_image": "https://rb.gy/mrlpo",
+    "chef_name": "Nigella Lawson",
+    "ingredients": [
+      "1 lb ground beef",
+      "Salt and pepper to taste",
+      "4 slices American cheese",
+      "4 hamburger buns, split and toasted",
+      "Lettuce, tomato, onion, and pickles for serving",
+      "Ketchup and mustard for serving"
+    ],
+    "directions": [
+      "Divide ground beef into 4 equal portions and shape into patties. Season with salt and pepper on both sides.",
+      "Preheat grill or grill pan to medium-high heat.",
+      "Grill burgers for 3-4 minutes per side, or until desired doneness is reached.",
+      "Top each patty with a slice of American cheese and allow to melt.",
+      "Assemble burgers on toasted buns with lettuce, tomato, onion, and pickles. Serve with ketchup and mustard."
+    ],
+    "dietary_info": "None",
+    "rating": 4.7,
+    "total_ratings": 90
+  },
+  {
+    "id": 27,
+    "recipe_name": "Southern Fried Chicken",
+    "food_image": "https://rb.gy/p3u0i",
+    "chef_name": "Nigella Lawson",
+    "ingredients": [
+      "2 lbs bone-in, skin-on chicken pieces",
+      "1 cup all-purpose flour",
+      "1 tbsp garlic powder",
+      "1 tbsp onion powder",
+      "1 tbsp paprika",
+      "1 tsp salt",
+      "1/2 tsp black pepper",
+      "1 cup buttermilk",
+      "2 eggs",
+      "Vegetable oil for frying"
+    ],
+    "directions": [
+      "In a shallow bowl, whisk together flour, garlic powder, onion powder, paprika, salt, and black pepper.",
+      "In another shallow bowl, whisk together buttermilk and eggs.",
+      "Dredge chicken pieces in the flour mixture, then dip in the buttermilk mixture, and then coat in the flour mixture again.",
+      "Heat about 2 inches of vegetable oil in a large pot or Dutch oven over medium-high heat.",
+      "Working in batches, fry chicken pieces for 10-12 minutes per side, until golden brown and cooked through.",
+      "Remove chicken to a wire rack to drain excess oil.",
+      "Serve hot."
+    ],
+    "dietary_info": "Contains dairy",
+    "rating": 4.9,
+    "total_ratings": 80
+  },
+  {
+    "id": 28,
+    "recipe_name": "Macaroni and Cheese",
+    "chef_name": "Nigella Lawson",
+    "food_image": "https://rb.gy/rje2e",
+    "ingredients": [
+      "1 lb elbow macaroni",
+      "4 tbsp unsalted butter",
+      "1/4 cup all-purpose flour",
+      "3 cups whole milk",
+      "2 cups shredded cheddar cheese",
+      "1 cup shredded mozzarella cheese",
+      "1/2 cup grated Parmesan cheese",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Preheat oven to 375°F.",
+      "Cook macaroni according to package directions. Drain and set aside.",
+      "In a large saucepan, melt butter over medium heat. Whisk in flour and cook for 1-2 minutes, until lightly browned.",
+      "Gradually whisk in milk and bring to a simmer. Cook for 3-4 minutes, stirring constantly, until thickened.",
+      "Stir in cheddar, mozzarella, and Parmesan cheeses until melted and smooth. Season with salt and pepper to taste.",
+      "Add cooked macaroni to the cheese sauce and stir to combine"
+    ],
+    "rating": 4.8,
+    "total_ratings": 89
+  },
+  {
+    "id": 29,
+    "chef_name": "Nigella Lawson",
+    "recipe_name": "Classic Cheeseburger",
+    "food_image": "https://rb.gy/uqfgw",
+    "rating": 4.5,
+    "total_ratings": 100,
+    "ingredients": [
+      "1 lb ground beef",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper",
+      "4 slices American cheese",
+      "4 hamburger buns, split and toasted",
+      "Lettuce, tomato, onion, pickles, ketchup, and mustard for serving"
+    ],
+    "directions": [
+      "Preheat grill or grill pan to medium-high heat.",
+      "In a large bowl, mix together ground beef, salt, and black pepper. Form into 4 equal patties.",
+      "Grill patties for 4-5 minutes per side, until fully cooked. During the last minute of cooking, top each patty with a slice of cheese.",
+      "Serve burgers on toasted buns with desired toppings."
+    ],
+    "dietary_info": "None"
   }
 ]

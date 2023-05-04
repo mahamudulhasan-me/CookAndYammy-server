@@ -19,7 +19,7 @@
     "author": "Jane Smith",
     "author_image": "https://rb.gy/6mja9",
     "like": 100,
-    "description": "PropTypes is a built-in library in React that allows you to validate the data types of your component's props. You can specify the expected data type, and PropTypes will throw a warning if the data type doesn't match. This helps catch bugs and ensure that your component receives the correct data types."
+    "description": "PropTypes is a built-in library in React that allows us to validate the data types of our component's props. I can specify the expected data type, and PropTypes will throw a warning if the data type doesn't match. This helps catch bugs and ensure that your component receives the correct data types."
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "author": "Bob Johnson",
     "author_image": "https://rb.gy/n3phs",
     "like": 75,
-    "description": "Node.js is a server-side JavaScript runtime environment, while Express.js is a web application framework built on top of Node.js. Node.js allows you to execute JavaScript code outside of a web browser, while Express.js simplifies the process of building web applications by providing pre-built functionality and middleware."
+    "description": "Node.js is a server-side JavaScript runtime environment, while Express.js is a web application framework built on top of Node.js. Node.js allows us to execute JavaScript code outside of a web browser, while Express.js simplifies the process of building web applications by providing pre-built functionality and middleware."
   },
   {
     "id": 4,
@@ -41,6 +41,6 @@
     "author": "Sarah Lee",
     "author_image": "https://rb.gy/6apgk",
     "like": 200,
-    "description": "Custom hooks are reusable logic functions that allow you to extract common functionality from your React components. You can create custom hooks to encapsulate complex logic, make your code more modular, and reduce repetition. For example, you might create a custom hook to handle API calls or form validation logic."
+    "description": "Custom hooks are reusable logic functions that allow us to extract common functionality from our React components. I can create custom hooks to encapsulate complex logic, make my code more modular, and reduce repetition. For example, I might create a custom hook to handle API calls or form validation logic."
   }
 ]
