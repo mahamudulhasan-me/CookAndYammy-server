@@ -7,7 +7,7 @@
     "num_of_recipes": 300,
     "like_number": 5000,
     "bio": "Gordon Ramsay is a celebrity chef and television personality known for his fiery temper and outspoken nature. With over 30 years of experience in the culinary world, he has built a reputation for his exceptional cooking skills and innovative dishes. Ramsay has been awarded multiple Michelin stars for his restaurants, and has hosted a number of popular cooking shows, including Hell's Kitchen and MasterChef.",
-    "chef_picture": "https://rb.gy/4m7g9"
+    "chef_picture": "https://rb.gy/2vzxi"
   },
   {
     "id": 2,
@@ -17,17 +17,17 @@
     "num_of_recipes": 250,
     "like_number": 4000,
     "bio": "Jamie Oliver is a British chef, restaurateur, and television personality. He is best known for his campaigns to promote healthy eating and cooking, and has published multiple cookbooks and hosted a number of popular cooking shows, including Jamie's Kitchen and Jamie Oliver's Food Revolution. Oliver has also received numerous awards for his work in promoting healthy eating and nutrition.",
-    "chef_picture": "https://rb.gy/4m7g9"
+    "chef_picture": "https://rb.gy/08755"
   },
   {
     "id": 3,
-    "chef_name": "Anthony Bourdain",
+    "chef_name": "Sara Lee",
     "rating": 5,
     "years_of_experience": 12,
     "num_of_recipes": 200,
     "like_number": 3500,
-    "bio": "Anthony Bourdain was an American chef, author, and television personality. He was known for his adventurous spirit and willingness to try new things, and became a beloved figure in the culinary world for his passionate approach to cooking and eating. Bourdain hosted several popular cooking shows, including Anthony Bourdain: No Reservations and Parts Unknown. Tragically, he passed away in 2018, but his legacy continues to inspire chefs and food lovers around the world.",
-    "chef_picture": "https://rb.gy/xu1v1"
+    "bio": "Sara Lee was an American chef, author, and television personality. He was known for his adventurous spirit and willingness to try new things, and became a beloved figure in the culinary world for his passionate approach to cooking and eating. Bourdain hosted several popular cooking shows, including Anthony Bourdain: No Reservations and Parts Unknown. Tragically, he passed away in 2018, but his legacy continues to inspire chefs and food lovers around the world.",
+    "chef_picture": "https://rb.gy/lnyml"
   },
   {
     "id": 4,
@@ -36,8 +36,8 @@
     "years_of_experience": 4,
     "num_of_recipes": 500,
     "like_number": 6000,
-    "bio": "Ina Garten is an American chef, author, and television personality. She is best known for her approachable and comforting cooking style, and has published multiple bestselling cookbooks, including The Barefoot Contessa Cookbook and Barefoot Contessa Parties!. Garten also hosted a popular cooking show called Barefoot Contessa, which aired on the Food Network for over a decade.",
-    "chef_picture": "https://rb.gy/4m7g9"
+    "bio": "Julia Child is an American chef, author, and television personality. She is best known for her approachable and comforting cooking style, and has published multiple bestselling cookbooks, including The Barefoot Contessa Cookbook and Barefoot Contessa Parties!. Garten also hosted a popular cooking show called Barefoot Contessa, which aired on the Food Network for over a decade.",
+    "chef_picture": "https://rb.gy/0e0fp"
   },
   {
     "id": 5,
@@ -46,8 +46,8 @@
     "years_of_experience": 5,
     "num_of_recipes": 350,
     "like_number": 4500,
-    "bio": "Bobby Flay is an American chef, restaurateur, and television personality. He is best known for his innovative cooking style, which often combines classic American flavors with international influences. Flay has published multiple cookbooks and has hosted several popular cooking shows, including Throwdown! with Bobby Flay and Beat Bobby Flay.",
-    "chef_picture": "https://rb.gy/xu1v1"
+    "bio": "Emeril Lagasse is an American chef, restaurateur, and television personality. He is best known for his innovative cooking style, which often combines classic American flavors with international influences. Flay has published multiple cookbooks and has hosted several popular cooking shows, including Throwdown! with Bobby Flay and Beat Bobby Flay.",
+    "chef_picture": "https://rb.gy/r68vc"
   },
   {
     "id": 6,
@@ -57,6 +57,6 @@
     "num_of_recipes": 150,
     "like_number": 2500,
     "bio": "Nigella Lawson is a British food writer, journalist, and television personality. She is known for her relaxed and indulgent approach to cooking, and has published multiple bestselling cookbooks, including How to Eat and Nigella Bites. Lawson has also hosted several popular cooking shows, including Nigella's Christmas Kitchen and Nigellissima.",
-    "chef_picture": "https://rb.gy/4m7g9"
+    "chef_picture": "https://rb.gy/o4fwj"
   }
 ]
