@@ -2,4 +2,4 @@
 
 # Live Site Link
 
-## **Career Hub:** [Preview](https://cook-and-yummy.web.app/)
+## **Cook & Yummy:** [Preview](https://cook-and-yummy.web.app/)
